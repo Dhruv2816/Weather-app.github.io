@@ -8,7 +8,7 @@
 
 body {
     background: #8C52FF;
-    background-image: url('https://github.com/Dhruv2816/Weather-app.github.io/blob/main/background.jpg'); /* Adjust path as needed */
+    background-image: url('./background.jpg'); /* Adjust path as needed */
     background-size: cover; /* Make sure the image covers the entire background */
     background-position: center; /* Center the background image */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
