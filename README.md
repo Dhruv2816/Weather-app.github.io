@@ -16,9 +16,4 @@ Aweather is a web application that allows users to view the weather and time of 
 
 ## Installation
 
-To run the Aweather web app locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/aweather.git
+https://dhruv2816.github.io/Weather-app.github.io/
